@@ -29,6 +29,7 @@ text## Installation & Usage
 2. Clone or download the repository  
 3. Navigate to the project directory  
 4. Run the program:
+<img width="381" height="248" alt="image" src="https://github.com/user-attachments/assets/f09d43b3-3ea5-4472-8a98-7680101dc8d0" />
 
 ```bash
 python main.py
