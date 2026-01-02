@@ -21,6 +21,7 @@ All data is stored in a CSV file (`restaurant_menu.txt`).
 
 ## Project Structure
 restaurant-menu-management/
+
 ├── main.py               # Main program file
 ├── restaurant_menu.txt   # Data file (auto-created on first run)
 └── README.md
@@ -33,7 +34,7 @@ restaurant-menu-management/
 4. Run the program:
 
 python main.py
-# or
+or
 python3 main.py
 
 Main Menu :
