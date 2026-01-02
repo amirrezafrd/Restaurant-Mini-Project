@@ -1,6 +1,6 @@
-Markdown# Restaurant Menu Management System
+Restaurant Menu Management System
 
-Final mini project for teacher Pourreza's class
+( Final mini project for teacher Pourreza's class. )
 
 A simple command-line Python application for managing a restaurant menu.  
 All data is stored persistently in a CSV file (`restaurant_menu.txt`).
@@ -25,7 +25,7 @@ restaurant-menu-management/
 ├── main.py               # Main application file
 ├── restaurant_menu.txt   # Data storage (auto-generated)
 └── README.md             # This file
-text## Installation & Usage
+## Installation & Usage
 
 1. Make sure you have **Python 3** installed
 2. Clone or download the repository
@@ -48,6 +48,8 @@ text========================================
 0. Exit
 
 Enter your choice (0-5):
+<img width="380" height="248" alt="image" src="https://github.com/user-attachments/assets/741e99bb-99dc-480f-bf96-05c47db4a58d" />
+
 Important Notes
 
 Prices → positive integers only (in Rials)
